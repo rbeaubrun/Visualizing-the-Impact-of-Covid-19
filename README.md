@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/rbeaubrun/SQL-Exploratory-Analysis-Project/blob/main/covid19%20(1).jpg" alt="covid19 (1)">
+</div>
+
 # Global Health Data Analysis & Visualization
 
 ## Project Overview  
