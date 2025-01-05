@@ -14,7 +14,8 @@ Additionally, an interactive Power BI dashboard was designed to visualize trends
   Conducted in-depth exploratory analysis of COVID-19 data, investigating the relationships between infection rates, vaccination coverage, and death tolls. Utilized **window functions** to compute running totals of cases and vaccination trends over time. Applied **aggregation techniques** such as `SUM()`, `AVG()`, and `RANK()` to rank countries by case count and vaccination rates. Created **temporary tables and common table expressions (CTEs)** to structure the analysis efficiently and improve query readability.
 
 - **Power BI Dashboard**:  
-  Designed an interactive dashboard to visualize infection trends and vaccination impacts across five continents. Incorporated **SQL-extracted summary tables** to streamline Power BI integration. Enabled dynamic filtering by country, date, and continent for deeper insights.
+  Designed an interactive dashboard to visualize infection trends and vaccination impacts across five continents. Incorporated **SQL-extracted summary tables** to streamline Power BI integration. Enabled dynamic filtering by country, date, and continent for deeper insights. View a demo of the full dashboard <a href="https://drive.google.com/drive/u/0/folders/1SHOOEXYTPdPQKgCb2EeXJrjp3wZk_EjK">here.</a>
+
 
 - **Insights & Reporting**:  
   The analysis provided actionable insights into the progression of the COVID-19 pandemic across different regions. Key trends identified include:
